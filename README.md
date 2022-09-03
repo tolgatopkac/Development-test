@@ -2,7 +2,7 @@
 
 [Demo on netlify](https://digifest-featured-collection.netlify.app/)
 
-### Responsive Design Test
+### Desktop - Mobile Design
 
 ### Google Chrome (Desktop)
 

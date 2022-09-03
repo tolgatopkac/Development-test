@@ -30,17 +30,25 @@ html {
 
 body {
   font-family: "Avenir", sans-serif;
+  overflow-x: hidden;
+
   line-height: 1;
   font-weight: 400;
 }
 
 /* General Reusable CSS */
 .container {
-  max-width: 144rem;
+  /* max-width: 144rem; */
 }
 
 .flex {
   display: flex;
+}
+.left {
+  flex: 1;
+}
+.right {
+  flex: 1;
 }
 
 h1 {

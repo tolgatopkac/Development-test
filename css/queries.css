@@ -1,6 +1,99 @@
 /* Instead, 1rem = 1em = 16px  */
+/* DESKTOP QUERIES */
+/* Below 1368px */
+@media (max-width: 85.5em) {
+  .products {
+    margin-top: 3.4rem;
+  }
+  .hero-text {
+    margin-top: 7.6rem;
+  }
+  .left-button {
+    margin-left: 10rem;
+    top: 515px;
+  }
 
-/* Below 512px  for Phones*/
+  .right-button {
+    margin-left: 64rem;
+    top: 515px;
+  }
+  .hero-img {
+    width: none;
+  }
+}
+
+/* Below 1286 */
+@media (max-width: 80em) {
+  .hero-text {
+    margin-left: 7rem;
+  }
+  .products {
+    gap: 4rem;
+    margin-left: 6.4rem;
+    max-width: 54rem;
+  }
+  .product-img {
+    width: 20rem;
+    height: 24rem;
+  }
+  .left-button {
+    margin-left: 6rem;
+    top: 472px;
+  }
+  .right-button {
+    margin-left: 54rem;
+    top: 472px;
+  }
+}
+
+/* Below 1024 */
+@media (max-width: 65em) {
+  .hero-text {
+    margin-left: 5rem;
+    margin-top: 2.6rem;
+  }
+  .products {
+    gap: 2.4rem;
+    margin-left: 4.2rem;
+    margin-top: 2rem;
+    max-width: 45rem;
+  }
+  .product-img {
+    width: 18rem;
+    height: 20rem;
+  }
+  .left-button {
+    margin-left: 4rem;
+    top: 410px;
+  }
+  .right-button {
+    margin-left: 45rem;
+    top: 410px;
+  }
+}
+
+@media (max-width: 1024px) and (max-height: 768px) {
+  .hero-img {
+    width: 512px;
+  }
+}
+
+@media (max-width: 62em) {
+  .hero-title {
+    font-size: 2.6rem;
+  }
+  .hero-info {
+    max-width: 36rem;
+  }
+  .shop-text {
+    padding-bottom: 0.4rem;
+  }
+  .products {
+    max-width: 44rem;
+  }
+}
+
+/* Below 512px for Phones*/
 @media (max-width: 32em) {
   html {
     overflow: hidden;
@@ -18,9 +111,9 @@
     display: none;
   }
 
-  .right {
+  /* .right {
     display: relative;
-  }
+  } */
 
   .hero-text {
     position: absolute;
@@ -43,17 +136,18 @@
     display: none;
   }
 
-  .horizantal-scroll {
+  /* .horizantal-scroll {
     display: relative;
-  }
+  } */
   .products {
     position: absolute;
     max-width: 360px;
-    /* height: 750px; */
+    height: 750px;
     top: 380px;
     overflow-x: scroll;
     margin-left: 1rem;
     gap: 1rem;
+    margin-top: 0;
   }
   .product-price-colors {
     display: flex;
@@ -80,7 +174,15 @@
     display: hidden;
   }
 }
-
+/* Below 480px  */
+@media (max-width: 30em) {
+  .products {
+    max-width: 395px;
+  }
+  .product-img {
+    width: 160px;
+  }
+}
 /* Below 390px for Small Devices */
 @media (max-width: 24em) {
   .products {
@@ -91,5 +193,28 @@
     overflow-x: scroll;
     margin-left: 1rem;
     gap: 1rem;
+  }
+}
+
+/* BELOW 320PX */
+@media (max-width: 20em) {
+  .hero-img {
+    height: 65vh;
+  }
+  .hero-text {
+    margin-bottom: 18rem;
+  }
+  .products {
+    position: absolute;
+    max-width: 275px;
+
+    top: 310px;
+    overflow-x: scroll;
+    margin-left: 1rem;
+    gap: 1rem;
+  }
+  .product-img {
+    width: 100px;
+    height: 120px;
   }
 }
