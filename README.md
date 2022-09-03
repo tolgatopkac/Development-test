@@ -14,7 +14,7 @@ Invitation assignment for the interview sent by Digifist
 
 [Demo on netlify](https://digifist-featured-collection.netlify.app/)
 
-### Responsive Test with [Tool](http://responsivetesttool.com/?url=http://digifist-featured-collection.netlify.app)
+### Responsive Design Test with [Tool](http://responsivetesttool.com/?url=http://digifist-featured-collection.netlify.app)
 
 ### Desktop Devices
 
