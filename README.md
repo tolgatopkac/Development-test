@@ -2,6 +2,14 @@
 
 Invitation assignment for the interview sent by Digifist
 
+- [x] Code the provided design into a pixel-perfect section in HTML, CSS & JS
+- [x] Build it as closely as you can with interactions.
+- [x] The design contains desktop & mobile versions.
+- [x] Kindly share the live URL with us together with the Github Repo.
+- [x] Please check out our provided working file and adjust the front-end code accordingly based on all the details.
+- [x] Please update the custom fonts (attached)
+- [x] Check out every screen size for correct alignment of all the smallest details.
+
 [Copy Figma File](https://www.figma.com/file/LLbeA93sdQJntDQzgQ1z0P/Digifist?node-id=0%3A1)
 
 [Demo on netlify](https://digifist-featured-collection.netlify.app/)
