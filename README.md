@@ -26,4 +26,8 @@ Height : 864px
 
 Width: 360px
 Height : 724px
+<<<<<<< HEAD
 ![Mozilla 1440x864](https://i.ibb.co/TWhShcx/mozilla360x754.png)
+=======
+![Mozilla 1440x864](https://i.ibb.co/BTbFy3m/m2ozilla360x754.png)
+>>>>>>> ed191e7739f30106c98cf95b730891252065a47f
