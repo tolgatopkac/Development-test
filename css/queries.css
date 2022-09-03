@@ -1,5 +1,5 @@
 /* Instead, 1rem = 1em = 16px  */
-/* DESKTOP QUERIES */
+/* DESKTOP Devices */
 /* Below 1368px */
 @media (max-width: 85.5em) {
   .products {
@@ -16,9 +16,6 @@
   .right-button {
     margin-left: 64rem;
     top: 515px;
-  }
-  .hero-img {
-    width: none;
   }
 }
 
@@ -72,12 +69,7 @@
   }
 }
 
-@media (max-width: 1024px) and (max-height: 768px) {
-  .hero-img {
-    width: 512px;
-  }
-}
-
+/* Below 992px */
 @media (max-width: 62em) {
   .hero-title {
     font-size: 2.6rem;
@@ -111,10 +103,6 @@
     display: none;
   }
 
-  /* .right {
-    display: relative;
-  } */
-
   .hero-text {
     position: absolute;
     max-width: 31.2rem;
@@ -136,9 +124,6 @@
     display: none;
   }
 
-  /* .horizantal-scroll {
-    display: relative;
-  } */
   .products {
     position: absolute;
     max-width: 360px;
