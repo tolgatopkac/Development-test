@@ -1,33 +1,29 @@
 # Development Test
 
-[Demo on netlify](https://digifest-featured-collection.netlify.app/)
+Invitation assignment for the interview sent by Digifist
 
-### Desktop - Mobile Design
+[Copy Figma File](https://www.figma.com/file/LLbeA93sdQJntDQzgQ1z0P/Digifist?node-id=0%3A1)
 
-### Google Chrome (Desktop)
+[Demo on netlify](https://digifist-featured-collection.netlify.app/)
 
-Width : 1440px
-Height : 864px
-![Chrome 1440x864](https://i.ibb.co/3BT3pJq/chrome1440x864.png)
+### Responsive Test with [Tool](https://responsivetesttool.com/)
 
-### Google Chrome (Mobile)
+### Desktop Devices
 
-Width: 360px
-Height : 724px
-![Chrome 360x724](https://i.ibb.co/tHQyGrT/chrome360x754.png)
+**Width : 1440px Height : 900px**
 
-### Mozilla Firefox (Desktop)
+![1440x900](https://i.ibb.co/CQvFSZB/1440x900.png)
 
-Width : 1440px
-Height : 864px
-![Chrome 1440x864](https://i.ibb.co/VYjF9ns/mozilla1440x864.png)
+**Width : 1366px Height : 768px**
 
-### Mozilla Firefox (Mobile)
+![1366x768](https://i.ibb.co/fvHJ3gT/1366x768px.png)
 
-Width: 360px
-Height : 724px
-<<<<<<< HEAD
-![Mozilla 1440x864](https://i.ibb.co/TWhShcx/mozilla360x754.png)
-=======
-![Mozilla 1440x864](https://i.ibb.co/BTbFy3m/m2ozilla360x754.png)
->>>>>>> ed191e7739f30106c98cf95b730891252065a47f
+**Width : 1280px Height : 800px**
+
+![1280x800](https://i.ibb.co/6YMCk9j/1280x800.png)
+
+**Width : 1024 Height : 600px**
+
+![1024x600](https://i.ibb.co/Csk7FbK/1024x600.png)
+
+### Mobile Devices
