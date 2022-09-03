@@ -1,17 +1,5 @@
 /* Instead, 1rem = 1em = 16px  */
 
-/* Below 390px for Small Devices */
-@media (max-width: 24em) {
-  .products {
-    position: absolute;
-    max-width: 350px;
-    /* height: 750px; */
-    top: 380px;
-    overflow-x: scroll;
-    margin-left: 1rem;
-    gap: 1rem;
-  }
-}
 /* Below 512px  for Phones*/
 @media (max-width: 32em) {
   html {
@@ -90,5 +78,18 @@
   }
   button {
     display: hidden;
+  }
+}
+
+/* Below 390px for Small Devices */
+@media (max-width: 24em) {
+  .products {
+    position: absolute;
+    max-width: 350px;
+    /* height: 750px; */
+    top: 380px;
+    overflow-x: scroll;
+    margin-left: 1rem;
+    gap: 1rem;
   }
 }
