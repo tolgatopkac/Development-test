@@ -19,4 +19,4 @@ Height : 864px
 
 Width: 360px
 Height : 724px
-![Mozilla 1440x864](https://i.ibb.co/TWhShcx/mozilla360x754.png)
+![Mozilla 1440x864](https://i.ibb.co/BTbFy3m/m2ozilla360x754.png)
