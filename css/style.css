@@ -3,10 +3,9 @@
 }
 
 .hero-text {
-  max-width: 49.5rem;
-  margin-top: 9.6rem;
-  margin-left: 10rem;
-  /* margin: 9.6rem 10.6rem 6.8rem 12rem; */
+  margin-bottom: 6.8rem;
+  margin-right: 10.6rem;
+  max-width: 49rem;
 }
 
 .hero-title {
@@ -35,17 +34,11 @@
   display: flex;
   flex-direction: row;
   max-width: 60rem;
-
-  height: 100%;
-  gap: 4.8rem;
-  padding: 1rem;
+  gap: 3.2rem;
+  padding-bottom: 1rem;
   overflow: hidden;
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
-
-  margin-left: 9rem;
-  margin-top: 7.4rem;
-
   position: relative;
 }
 
@@ -83,19 +76,14 @@
   gap: 0.5rem;
 }
 
-/* HORIZANTAL SCROLL */
-.horizantal-scroll {
-  display: absolute;
-}
-
 .left-button {
-  margin-left: 10rem;
-  top: 570px;
+  margin-left: -1rem;
+  margin-top: 14rem;
 }
 
 .right-button {
-  margin-left: 64rem;
-  top: 570px;
+  margin-left: 51rem;
+  margin-top: 14rem;
 }
 
 .color-1 {
@@ -123,5 +111,5 @@ input {
 }
 
 input:checked {
-  outline: 2px solid #000;
+  box-shadow: 0 0 0 1px #000;
 }
